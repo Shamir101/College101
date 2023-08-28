@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="home"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-08-28 08:44:10 PM"/>
+        <attribute name="created" value="aG9tZTtERVNLVE9QLUpTTk05T1M7MjAyMy0wOC0yNTsxMDo1NzowOSBBTTsyODEy"/>
+        <attribute name="edited" value="aG9tZTtERVNLVE9QLUpTTk05T1M7MjAyMy0wOC0yNTsxMDo1ODo1NCBBTTsyOzI5MjI="/>
+        <attribute name="edited" value="U2hhbWlyO1NIQU1JUi1QQzsyMDIzLTA4LTI4OzA4OjQ0OjEwIFBNOzE7MjY1MA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="r" type="Integer" array="False" size=""/>
+            <input variable="r"/>
+            <declare name="answer" type="Integer" array="False" size=""/>
+            <assign variable="answer" expression="3.147 * r * r"/>
+            <output expression="answer" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
